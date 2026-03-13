@@ -146,9 +146,9 @@
 
 # মানে marks যদি 80 থেকে 100 এর মধ্যে হয়, তাহলে "A" print হবে।
 
-# marks = 75
-# if 80 <= marks <= 100:
-#     print("A")
+marks = 75
+if 80 <= marks <= 100:
+    print("A")
 
-# elif 70 <= marks <= 79:
-#     print("B")
+elif 70 <= marks <= 79:
+    print("bc")
