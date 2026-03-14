@@ -146,9 +146,21 @@
 
 # মানে marks যদি 80 থেকে 100 এর মধ্যে হয়, তাহলে "A" print হবে।
 
-marks = 75
-if 80 <= marks <= 100:
-    print("A")
+# marks = 75
+# if 80 <= marks <= 100:
+#     print("A")
 
-elif 70 <= marks <= 79:
-    print("bc")
+# elif 70 <= marks <= 79:
+#     print("bc")
+
+
+
+
+
+# while loop korar system
+
+i = 1 
+while i<=30:
+    print("Bangladesh")
+    i = i + 1
+print("utshab")
