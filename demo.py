@@ -166,10 +166,49 @@
 # print("utshab")
 
 
-n  = int(input("Enter the last term : "))
-sum = 0
-i = 1
-while i <= n :
-    sum = sum + i
-    i = i + 4
-print(sum)
+# n  = int(input("Enter the last term : "))
+# sum = 0
+# i = 1
+# while i <= n :
+#     sum = sum + i
+#     i = i + 4
+# print(sum)
+
+
+
+
+# i = 1
+# while i <= 100:
+#     if i == 20:
+#         break
+#     print(i)
+#     i = i + 1
+
+
+
+
+# i =1
+# while i <= 100:
+#     print(i)
+#     if i == 20:
+#         break
+#     i = i + 1
+
+
+
+
+# i = 1 
+# while i <= 100:
+#     print(i)
+#     i = i + 1
+#     if i == 20:
+#         continue
+#         print("Hello")
+
+
+
+# subjects = ["c", "c++", "java", "python","os", "toc", "c++"]
+# # print(subjects[2:])
+
+# print("javascript" in subjects)
+# output false ashba ajonno karon ata nay opor a
