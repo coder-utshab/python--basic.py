@@ -216,12 +216,22 @@
 
 
 
-num = list(range(10))
-print(num)
-print(num[2])
+# num = list(range(10))
+# print(num)
+# print(num[2])
 
-num = list(range(5,11))
-print(num)
+# num = list(range(5,11))
+# print(num)
 
-num = list(range(2,101,2))
-print(num)
+# num = list(range(2,101,2))
+# print(num)
+
+
+
+
+# for loop using
+num = [10,20,30,40,50]
+sum = 0
+for x in num:
+    sum = sum + x
+    print(sum)
