@@ -261,6 +261,18 @@
 
 
 
-n = 5
-for i in range(n+1):
-    print(i*"*")
+# n = 5
+# for i in range(n+1):
+#     print(i*"*") 
+
+
+
+# nested loop ar sahajja matrix korta pari
+
+matrix = [
+    [1, 2, 3],
+    [4, 5, 6],
+]
+for row in matrix:
+    for col in row:
+        print(col)
