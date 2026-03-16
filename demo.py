@@ -292,3 +292,14 @@
 #     "104": "shuvo das",
 # }
 # print(studentId.get("102"))
+
+
+
+
+
+#set arbasic kechu 
+num1 = {1, 2, 3, 0, 5, 6}
+num2 = set([4, 5, 6])
+# num2.add(7)
+# # num2.remove(7)
+print(4 not in num1)
