@@ -284,4 +284,11 @@
 
 
 
-
+# dictionary usage system
+# studentId = { 
+#     "101": "Utshab kumar Ghosh",
+#     "102": "Sajib Kumar Biswas ",
+#     "103": "animesh roy",
+#     "104": "shuvo das",
+# }
+# print(studentId.get("102"))
