@@ -267,12 +267,21 @@
 
 
 
-# nested loop ar sahajja matrix korta pari
 
-matrix = [
-    [1, 2, 3],
-    [4, 5, 6],
-]
-for row in matrix:
-    for col in row:
-        print(col)
+
+# nested loop ar sahajja matrix korta pari----
+# matrix = [
+#     [1, 2, 3],
+#     [4, 5, 6],
+# ]
+# for row in matrix:
+#     for col in row:
+#         print(col)
+
+
+
+
+
+
+
+
